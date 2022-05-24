@@ -22,7 +22,7 @@ import csv
 import sys
 import re
 import pandas as pd
-import numpy as np
+import numpy as np 
 import os 
 
 FILE_PATH = 'C:/Users/seoyh/Desktop/김천_자동화/20220331_DataBase/전처리 파일/김천 작년(21년) 날씨 데이터/초단기예보/'
